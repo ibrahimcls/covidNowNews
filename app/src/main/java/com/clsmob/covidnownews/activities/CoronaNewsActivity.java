@@ -40,8 +40,7 @@ public class CoronaNewsActivity extends BaseActivity {
     ProgressBar progressBar_coronaNews;
     CoronaNewsListAdapter coronaNewsListAdapter = new CoronaNewsListAdapter();
     ArrayList<CoronaNews> coronaNewss = new ArrayList<>();
-
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
