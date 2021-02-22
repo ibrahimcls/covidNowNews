@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid Now News</string>
+    <string name="serch_country">Search Country...</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="new_cases">Yeni Vaka</string>
+    <string name="total_deaths">Total Deaths</string>
+    <string name="new_deaths">New Deaths</string>
+    <string name="total_recovered">Total Recovered</string>
+    <string name="active_cases">Active Cases</string>
+    <string name="country">Country</string>
+    <string name="continent">Continent</string>
+    <string name="corona_news">Corona News</string>
+    <string name="country_data">Country Data</string>
+    <string name="continent_data">Continent Data</string>
+    <string name="read_more">Read More</string>
+    <string name="test">Test</string>
+    <string name="shrink">shrink...</string>
+    <string name="hyphen">-</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid Now News</string>
+    <string name="serch_country">Искать в стране ...</string>
+
+    <string name="total_cases">Всего дело</string>
+
+    <string name="new_cases">Новое дело</string>
+
+    <string name="total_deaths">Полная смерть</string>
+
+    <string name="new_deaths">Новая смерть</string>
+
+    <string name="total_recovered">Всего исцелено</string>
+
+    <string name="active_cases">Активный случай</string>
+
+    <string name="country">Страна</string>
+
+    <string name="continent">Континент</string>
+
+    <string name="corona_news">Корона Новости</string>
+
+    <string name="country_data">Статистика страны</string>
+
+    <string name="continent_data">Статистика континента</string>
+
+    <string name="read_more">Прочитайте больше...</string>
+
+    <string name="test">Написание тестов</string>
+    <string name="shrink">сокращать...</string>
+    <string name="hyphen">-</string>
+</resources>

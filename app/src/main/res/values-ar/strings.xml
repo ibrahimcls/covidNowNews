@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid Now News</string>
+    <string name="serch_country">البحث في البلد ...</string>
+
+    <string name="total_cases">إجمالي الحالة</string>
+
+    <string name="new_cases">حالة جديدة</string>
+
+    <string name="total_deaths">مجموع الموت</string>
+
+    <string name="new_deaths">موت جديد</string>
+
+    <string name="total_recovered">مجموع تلتئم</string>
+
+    <string name="active_cases">حالة نشطة</string>
+
+    <string name="country">دولة</string>
+
+    <string name="continent">القارة</string>
+
+    <string name="corona_news">أخبار كورونا</string>
+
+    <string name="country_data">إحصائيات الدولة</string>
+
+    <string name="continent_data">إحصائيات القارة</string>
+
+    <string name="read_more">اقرأ أكثر...</string>
+
+    <string name="test">اختبار الكتابة</string>
+    <string name="shrink">إنكمش...</string>
+    <string name="hyphen">-</string>
+</resources>

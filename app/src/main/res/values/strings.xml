@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Covid Now News</string>
+    <string name="serch_country">Ülke Arayın...</string>
+    <string name="total_cases">Toplam Vaka</string>
+    <string name="new_cases">Yeni Vaka</string>
+    <string name="total_deaths">Toplam Ölüm</string>
+    <string name="new_deaths">Yeni Ölüm</string>
+    <string name="total_recovered">Toplam İyileşen</string>
+    <string name="active_cases">Aktif Vaka</string>
+    <string name="country">Ülke</string>
+    <string name="continent">Kıta</string>
+    <string name="corona_news">Corona Haberleri</string>
+    <string name="country_data">Ülke istatistikleri</string>
+    <string name="continent_data">Kıta İstatistikleri</string>
+    <string name="read_more">devamını oku...</string>
+    <string name="test">Test Yazı</string>
+    <string name="shrink">küçült...</string>
+    <string name="hyphen">-</string>
+
+
+</resources>
