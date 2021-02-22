@@ -50,7 +50,6 @@ public class CoronaNewsActivity extends BaseActivity {
         Date date = new Date();
         SimpleDateFormat DateFor = new SimpleDateFormat("dd/MM/yyyy");
         now= DateFor.format(date);
-
         recyclerview_coronaNews = findViewById(R.id.recyclerview_coronaNews);
         recyclerview_coronaNews.setLayoutManager(new LinearLayoutManager(_activity));
         recyclerview_coronaNews.setAdapter(coronaNewsListAdapter);
